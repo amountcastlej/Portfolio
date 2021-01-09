@@ -1,0 +1,166 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+    font-family: arial;
+}
+
+#wrapper {
+    width: 1000px;
+}
+
+.header {
+    background-color: rgb(246, 246, 246);
+    padding: 15px 0px;
+}
+
+.header h1 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.header p {
+    display: inline-block;
+    margin-left: 430px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#main {
+    padding: 20px 20px;
+    width: 960px;
+    min-height: 900px;
+    background-color: rgb(111,89,100);
+}
+
+#me {
+    width: 420px;
+    border: 5px solid rgb(192, 192, 192);
+    margin-bottom: 20px;
+}
+
+.aboutMe {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 498px;
+    height: 286px;
+    background-color: rgb(223,209,222);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.aboutMe h2 {
+    background-color:rgb(160,159,167);
+    padding: 10px;
+    color: white;
+}
+
+.aboutMe p {
+    padding: 10px;
+}
+
+.aboutMe a {
+    padding: 0px 10px;
+    color: black;
+    margin-top: 20px;
+    display: block;
+}
+
+.columns {
+    width: 300px;
+    height: 610px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(223,210,222);
+}
+
+.columns2 {
+    width: 300px;
+    height: 610px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(223,210,222);
+    margin-left: 22px;
+}
+
+.columns h3, h4 {
+    background-color: rgb(160, 159, 167);
+    padding: 10px;
+    color: white;
+}
+
+.columns2 h3, h4 {
+    background-color: rgb(160, 159, 167);
+    padding: 10px;
+    color: white;
+}
+
+.columns img {
+    width: 300px;
+}
+
+.columns2 img {
+    width: 300px;
+}
+
+.columns p {
+    padding: 6px 10px;
+    font-size: 15px;
+    height: 170px;
+    text-align: left;
+}
+
+.columns2 p {
+    padding: 6px 10px;
+    font-size: 15px;
+    height: 170px;
+    text-align: left;
+}
+
+.imgContainer img {
+    width: 42px;
+    padding: 15px 0px 0px 12px;
+}
+
+button {
+    background-color: rgb(64,125,97);
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+    display: block;
+    margin-top: 6px;
+    font-weight: bold;
+    margin-left: 110px;
+}
+
+#btn {
+    margin-left: 90px;
+}
+
+#btn2 {
+    margin-left: 114px;
+}
+
+#footer {
+    height: 70px;
+    background-color:rgb(246, 246, 246);
+    width: 1000px;
+    text-align: center;
+}
+
+#footer p {
+    margin: auto;
+    width: 240px;
+    padding: 10px;
+}
+
+.small-img {
+    width: 15px;
+    height: 15px;
+    vertical-align: bottom;
+} 
+
+span {
+    text-decoration: underline;
+}
+
+
